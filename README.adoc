@@ -1,0 +1,2 @@
+= national-terminology-collector
+Tool to extract terminologies from Excel - defines all terminologies used in Norway. 
