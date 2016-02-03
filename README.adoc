@@ -1,2 +1,8 @@
-= national-terminology-collector
-Tool to extract terminologies from Excel - defines all terminologies used in Norway. 
+= National-terminology-collector
+
+== Status
+Project is in ALPHA  - just to test the concept.
+
+== What is it?
+I Norge er det en rekke kvalitetsregistre. De har skjema for innrapportering. Det gjøres et arbeid med å samle disse variablene. Kartleggingen gjøres i Excel.
+ Dette verktøyet trekker ut variable fra Excel og strukturerer innholdet
